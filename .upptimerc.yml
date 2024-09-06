@@ -20,9 +20,10 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://www.webrand.be/wp-content/uploads/2021/07/WeBrand-RGB-500.png
+  favicon: https://www.webrand.be/wp-content/uploads/2021/10/favicon-webrand-180.png
   name: WEBRAND Upptime
-  introTitle: "Uptime monitor for some WEBRAND websites."
-  #introMessage: 
+  #introTitle: "Uptime monitor for some WEBRAND websites."
+  introMessage: "Uptime monitor for some WEBRAND websites."
   navbar:
     - title: Status
       href: /
