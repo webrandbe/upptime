@@ -22,19 +22,19 @@
     "url": "https://www.webrand.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.webrand.be.ico",
     "slug": "webrand",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1088,
-    "timeDay": 865,
-    "timeWeek": 1049,
-    "timeMonth": 1018,
-    "timeYear": 1088,
+    "time": 1087,
+    "timeDay": 922,
+    "timeWeek": 1040,
+    "timeMonth": 1017,
+    "timeYear": 1087,
     "dailyMinutesDown": {
-      "2025-02-22": 0
+      "2025-02-22": 7
     }
   },
   {
