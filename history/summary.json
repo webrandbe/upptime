@@ -4,10 +4,10 @@
     "url": "https://www.it1.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.it1.be.ico",
     "slug": "it-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1185,
@@ -15,17 +15,19 @@
     "timeWeek": 1105,
     "timeMonth": 1142,
     "timeYear": 1185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 1
+    }
   },
   {
     "name": "WEBRAND",
     "url": "https://www.webrand.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.webrand.be.ico",
     "slug": "webrand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1086,
@@ -34,6 +36,7 @@
     "timeMonth": 1032,
     "timeYear": 1086,
     "dailyMinutesDown": {
+      "2025-03-02": 1,
       "2025-02-25": 6,
       "2025-02-22": 7
     }
@@ -43,9 +46,9 @@
     "url": "https://mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -55,6 +58,7 @@
     "timeMonth": 910,
     "timeYear": 992,
     "dailyMinutesDown": {
+      "2025-03-02": 0,
       "2025-01-20": 12,
       "2024-12-16": 10
     }
@@ -64,9 +68,9 @@
     "url": "https://dashboard.mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -76,6 +80,7 @@
     "timeMonth": 1221,
     "timeYear": 1839,
     "dailyMinutesDown": {
+      "2025-03-02": 0,
       "2025-01-09": 11,
       "2024-12-16": 10,
       "2024-11-28": 38
