@@ -1,7 +1,7 @@
 url: https://mijngroeiplan.be/
-status: up
-code: 200
-responseTime: 1022
-lastUpdated: 2025-05-08T23:05:55.432Z
+status: down
+code: 503
+responseTime: 529
+lastUpdated: 2025-05-09T10:24:42.594Z
 startTime: 2024-09-06T00:23:37.037Z
 generator: Upptime <https://github.com/upptime/upptime>
