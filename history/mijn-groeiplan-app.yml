@@ -1,7 +1,7 @@
 url: https://dashboard.mijngroeiplan.be/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-05T01:46:03.801Z
+status: up
+code: 200
+responseTime: 1661
+lastUpdated: 2026-05-05T02:45:33.625Z
 startTime: 2024-09-06T00:23:38.718Z
 generator: Upptime <https://github.com/upptime/upptime>
