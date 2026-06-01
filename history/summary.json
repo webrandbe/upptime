@@ -4,17 +4,17 @@
     "url": "https://www.it1.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.it1.be.ico",
     "slug": "it-1",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "88.96%",
-    "uptimeWeek": "92.40%",
-    "uptimeMonth": "90.41%",
-    "uptimeYear": "99.20%",
-    "time": 1787,
-    "timeDay": 2666,
-    "timeWeek": 5383,
-    "timeMonth": 3182,
-    "timeYear": 1887,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "81.21%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "90.16%",
+    "uptimeYear": "99.18%",
+    "time": 1788,
+    "timeDay": 2597,
+    "timeWeek": 5263,
+    "timeMonth": 3179,
+    "timeYear": 1888,
     "dailyMinutesDown": {
       "2026-05-01": 53,
       "2026-05-02": 230,
@@ -46,7 +46,7 @@
       "2026-05-29": 173,
       "2026-05-30": 139,
       "2026-05-31": 150,
-      "2026-06-01": 77
+      "2026-06-01": 189
     }
   },
   {
@@ -113,7 +113,7 @@
     "time": 1078,
     "timeDay": 1016,
     "timeWeek": 1114,
-    "timeMonth": 1086,
+    "timeMonth": 1082,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2026-05-01": 73,
@@ -163,7 +163,7 @@
     "time": 1610,
     "timeDay": 1918,
     "timeWeek": 1820,
-    "timeMonth": 1806,
+    "timeMonth": 1801,
     "timeYear": 1626,
     "dailyMinutesDown": {
       "2026-05-01": 73,
