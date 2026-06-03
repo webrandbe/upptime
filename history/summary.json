@@ -4,17 +4,17 @@
     "url": "https://www.it1.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.it1.be.ico",
     "slug": "it-1",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "43.04%",
-    "uptimeWeek": "83.04%",
-    "uptimeMonth": "88.94%",
-    "uptimeYear": "99.03%",
-    "time": 1799,
-    "timeDay": 1642,
-    "timeWeek": 3476,
-    "timeMonth": 3234,
-    "timeYear": 1892,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "30.22%",
+    "uptimeWeek": "81.21%",
+    "uptimeMonth": "88.51%",
+    "uptimeYear": "98.99%",
+    "time": 1803,
+    "timeDay": 2186,
+    "timeWeek": 3506,
+    "timeMonth": 3244,
+    "timeYear": 1895,
     "dailyMinutesDown": {
       "2026-05-02": 152,
       "2026-05-03": 163,
@@ -47,7 +47,7 @@
       "2026-05-31": 150,
       "2026-06-01": 286,
       "2026-06-02": 284,
-      "2026-06-03": 553
+      "2026-06-03": 737
     }
   },
   {
@@ -55,16 +55,16 @@
     "url": "https://www.webrand.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.webrand.be.ico",
     "slug": "webrand",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "91.82%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.24%",
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "79.00%",
+    "uptimeWeek": "90.19%",
+    "uptimeMonth": "91.23%",
+    "uptimeYear": "99.21%",
     "time": 1122,
     "timeDay": 873,
-    "timeWeek": 1057,
-    "timeMonth": 1049,
+    "timeWeek": 1050,
+    "timeMonth": 1048,
     "timeYear": 1094,
     "dailyMinutesDown": {
       "2026-05-02": 197,
@@ -98,7 +98,7 @@
       "2026-05-31": 125,
       "2026-06-01": 160,
       "2026-06-02": 124,
-      "2026-06-03": 10
+      "2026-06-03": 195
     }
   },
   {
@@ -106,15 +106,15 @@
     "url": "https://mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "92.82%",
-    "uptimeWeek": "93.08%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "99.32%",
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "80.00%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "92.11%",
+    "uptimeYear": "99.28%",
     "time": 1079,
-    "timeDay": 929,
-    "timeWeek": 1065,
+    "timeDay": 987,
+    "timeWeek": 1068,
     "timeMonth": 1086,
     "timeYear": 1084,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
       "2026-05-31": 95,
       "2026-06-01": 146,
       "2026-06-02": 115,
-      "2026-06-03": 5
+      "2026-06-03": 190
     }
   },
   {
@@ -157,17 +157,17 @@
     "url": "https://dashboard.mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan-app",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "94.13%",
-    "uptimeMonth": "93.42%",
-    "uptimeYear": "99.39%",
-    "time": 1614,
-    "timeDay": 2085,
-    "timeWeek": 1923,
-    "timeMonth": 1789,
-    "timeYear": 1630,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "81.00%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "93.00%",
+    "uptimeYear": "99.36%",
+    "time": 1615,
+    "timeDay": 2107,
+    "timeWeek": 1932,
+    "timeMonth": 1793,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2026-05-02": 195,
       "2026-05-03": 158,
@@ -200,7 +200,7 @@
       "2026-05-31": 65,
       "2026-06-01": 136,
       "2026-06-02": 100,
-      "2026-06-03": 0
+      "2026-06-03": 185
     }
   }
 ]
