@@ -8,7 +8,7 @@
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.98%",
-    "uptimeMonth": "97.15%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "98.85%",
     "time": 1960,
     "timeDay": 2912,
@@ -65,7 +65,7 @@
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
-    "uptimeMonth": "97.46%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "99.08%",
     "time": 1087,
     "timeDay": 1302,
@@ -119,16 +119,16 @@
     "url": "https://mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "97.72%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "95.48%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.71%",
     "uptimeYear": "99.19%",
     "time": 1074,
-    "timeDay": 845,
-    "timeWeek": 949,
-    "timeMonth": 1008,
+    "timeDay": 998,
+    "timeWeek": 983,
+    "timeMonth": 1016,
     "timeYear": 1080,
     "dailyMinutesDown": {
       "2026-05-24": 144,
@@ -170,7 +170,7 @@
       "2026-07-15": 23,
       "2026-07-16": 31,
       "2026-07-17": 25,
-      "2026-07-18": 2
+      "2026-07-18": 40
     }
   },
   {
@@ -178,17 +178,17 @@
     "url": "https://dashboard.mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "99.26%",
-    "time": 1643,
-    "timeDay": 2763,
-    "timeWeek": 1686,
-    "timeMonth": 2005,
-    "timeYear": 1678,
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.25%",
+    "time": 1645,
+    "timeDay": 2715,
+    "timeWeek": 1753,
+    "timeMonth": 2016,
+    "timeYear": 1680,
     "dailyMinutesDown": {
       "2026-05-24": 188,
       "2026-05-23": 19,
@@ -229,7 +229,7 @@
       "2026-07-13": 57,
       "2026-07-15": 19,
       "2026-07-16": 21,
-      "2026-07-18": 0
+      "2026-07-18": 39
     }
   }
 ]
