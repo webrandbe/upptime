@@ -4,17 +4,17 @@
     "url": "https://www.it1.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.it1.be.ico",
     "slug": "it-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "98.77%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "98.97%",
-    "time": 2122,
-    "timeDay": 2908,
-    "timeWeek": 3037,
-    "timeMonth": 4422,
-    "timeYear": 2292,
+    "time": 2124,
+    "timeDay": 2968,
+    "timeWeek": 3044,
+    "timeMonth": 4398,
+    "timeYear": 2294,
     "dailyMinutesDown": {
       "2026-06-01": 209,
       "2026-06-02": 284,
@@ -67,7 +67,7 @@
       "2026-09-02": 16,
       "2026-09-04": 28,
       "2026-09-05": 11,
-      "2026-09-06": 39
+      "2026-09-06": 40
     }
   },
   {
@@ -75,16 +75,16 @@
     "url": "https://www.webrand.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.webrand.be.ico",
     "slug": "webrand",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "98.23%",
+    "uptimeDay": "98.19%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.20%",
     "time": 1088,
-    "timeDay": 1160,
-    "timeWeek": 1068,
-    "timeMonth": 1118,
+    "timeDay": 1115,
+    "timeWeek": 1062,
+    "timeMonth": 1115,
     "timeYear": 1080,
     "dailyMinutesDown": {
       "2026-05-31": 28,
@@ -138,7 +138,7 @@
       "2026-09-02": 11,
       "2026-09-04": 6,
       "2026-09-05": 6,
-      "2026-09-06": 26
+      "2026-09-06": 27
     }
   },
   {
@@ -214,17 +214,17 @@
     "url": "https://dashboard.mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.37%",
-    "time": 1662,
-    "timeDay": 1731,
-    "timeWeek": 1523,
-    "timeMonth": 1845,
-    "timeYear": 1716,
+    "time": 1663,
+    "timeDay": 1641,
+    "timeWeek": 1512,
+    "timeMonth": 1836,
+    "timeYear": 1715,
     "dailyMinutesDown": {
       "2026-05-31": 8,
       "2026-06-01": 136,
@@ -276,7 +276,7 @@
       "2026-09-02": 1,
       "2026-09-04": 1,
       "2026-09-05": 1,
-      "2026-09-06": 11
+      "2026-09-06": 12
     }
   }
 ]
