@@ -223,17 +223,17 @@
     "url": "https://dashboard.mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "86.54%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "85.94%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.42%",
-    "time": 1702,
-    "timeDay": 3263,
-    "timeWeek": 2107,
-    "timeMonth": 1973,
-    "timeYear": 1781,
+    "time": 1707,
+    "timeDay": 4174,
+    "timeWeek": 2461,
+    "timeMonth": 2088,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2026-06-04": 16,
       "2026-06-05": 178,
@@ -289,7 +289,7 @@
       "2026-09-19": 1,
       "2026-09-22": 1,
       "2026-10-15": 7,
-      "2026-10-21": 194
+      "2026-10-21": 203
     }
   }
 ]
