@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.it1.be.ico",
     "slug": "it-1",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.23%",
+    "uptime": "99.63%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.22%",
     "time": 2260,
     "timeDay": 1658,
     "timeWeek": 2914,
@@ -71,7 +71,7 @@
       "2026-09-19": 11,
       "2026-09-22": 11,
       "2026-09-29": 11,
-      "2026-10-21": 0
+      "2026-10-21": 27
     }
   },
   {
@@ -79,19 +79,19 @@
     "url": "https://www.webrand.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.webrand.be.ico",
     "slug": "webrand",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.73%",
-    "time": 1087,
-    "timeDay": 894,
-    "timeWeek": 1130,
-    "timeMonth": 1085,
-    "timeYear": 1085,
+    "uptimeYear": "98.74%",
+    "time": 1085,
+    "timeDay": 552,
+    "timeWeek": 1015,
+    "timeMonth": 1060,
+    "timeYear": 1084,
     "dailyMinutesDown": {
-      "2026-06-04": 160,
+      "2026-06-04": 113,
       "2026-06-05": 205,
       "2026-06-06": 92,
       "2026-06-07": 36,
@@ -146,7 +146,8 @@
       "2026-09-16": 1440,
       "2026-09-19": 6,
       "2026-09-22": 6,
-      "2026-09-23": 21
+      "2026-09-23": 21,
+      "2026-10-21": 1
     }
   },
   {
@@ -222,19 +223,19 @@
     "url": "https://dashboard.mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan-app",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "99.45%",
-    "time": 1703,
-    "timeDay": 6181,
-    "timeWeek": 2303,
-    "timeMonth": 2023,
-    "timeYear": 1783,
+    "uptimeYear": "99.46%",
+    "time": 1702,
+    "timeDay": 3263,
+    "timeWeek": 2107,
+    "timeMonth": 1973,
+    "timeYear": 1781,
     "dailyMinutesDown": {
-      "2026-06-04": 94,
+      "2026-06-04": 16,
       "2026-06-05": 178,
       "2026-06-06": 74,
       "2026-06-07": 17,
@@ -287,7 +288,8 @@
       "2026-09-17": 4,
       "2026-09-19": 1,
       "2026-09-22": 1,
-      "2026-10-15": 7
+      "2026-10-15": 7,
+      "2026-10-21": 0
     }
   }
 ]
