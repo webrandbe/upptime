@@ -4,11 +4,11 @@
     "url": "https://www.it1.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.it1.be.ico",
     "slug": "it-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.22%",
     "time": 2396,
     "timeDay": 2399,
@@ -16,7 +16,6 @@
     "timeMonth": 5659,
     "timeYear": 2604,
     "dailyMinutesDown": {
-      "2026-06-07": 22,
       "2026-06-08": 127,
       "2026-06-09": 346,
       "2026-06-10": 183,
@@ -71,7 +70,8 @@
       "2026-09-29": 11,
       "2026-10-21": 220,
       "2026-10-26": 74,
-      "2026-10-27": 23
+      "2026-10-27": 23,
+      "2026-10-30": 1
     }
   },
   {
@@ -79,19 +79,18 @@
     "url": "https://www.webrand.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.webrand.be.ico",
     "slug": "webrand",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "98.72%",
-    "time": 1081,
-    "timeDay": 766,
-    "timeWeek": 645,
-    "timeMonth": 932,
-    "timeYear": 1079,
+    "uptimeYear": "98.73%",
+    "time": 1080,
+    "timeDay": 476,
+    "timeWeek": 599,
+    "timeMonth": 911,
+    "timeYear": 1078,
     "dailyMinutesDown": {
-      "2026-06-04": 26,
       "2026-06-05": 205,
       "2026-06-06": 92,
       "2026-06-07": 36,
@@ -148,7 +147,8 @@
       "2026-09-22": 6,
       "2026-09-23": 21,
       "2026-10-21": 147,
-      "2026-10-27": 16
+      "2026-10-27": 16,
+      "2026-10-30": 1
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://dashboard.mijngroeiplan.be/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.mijngroeiplan.be.ico",
     "slug": "mijn-groeiplan-app",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.42%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.44%",
     "time": 1710,
     "timeDay": 1963,
     "timeWeek": 1478,
     "timeMonth": 1968,
     "timeYear": 1786,
     "dailyMinutesDown": {
-      "2026-06-05": 178,
+      "2026-06-05": 103,
       "2026-06-06": 74,
       "2026-06-07": 17,
       "2026-06-08": 112,
@@ -290,7 +290,8 @@
       "2026-09-22": 1,
       "2026-10-15": 7,
       "2026-10-21": 203,
-      "2026-10-27": 16
+      "2026-10-27": 16,
+      "2026-10-30": 0
     }
   }
 ]
