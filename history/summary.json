@@ -4,19 +4,19 @@
     "url": "https://www.it1.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.it1.be.ico",
     "slug": "it-1",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.31%",
-    "time": 2491,
-    "timeDay": 2896,
-    "timeWeek": 2735,
-    "timeMonth": 6205,
-    "timeYear": 2721,
+    "time": 2501,
+    "timeDay": 6808,
+    "timeWeek": 3461,
+    "timeMonth": 6306,
+    "timeYear": 2732,
     "dailyMinutesDown": {
-      "2026-06-10": 183,
+      "2026-06-10": 138,
       "2026-06-11": 187,
       "2026-06-12": 16,
       "2026-06-13": 161,
@@ -73,7 +73,8 @@
       "2026-11-01": 5,
       "2026-11-09": 3,
       "2026-11-13": 3,
-      "2026-11-15": 7
+      "2026-11-15": 7,
+      "2026-11-18": 0
     }
   },
   {
